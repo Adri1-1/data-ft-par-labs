@@ -6,8 +6,8 @@
 *DAFTAPRIL2021, Paris, 18/04/2021*
 
 ## Content
-- [Blackjack]
-- [Rules]
+- [Blackjack](#presentation)
+- [Rules](#Rules)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
