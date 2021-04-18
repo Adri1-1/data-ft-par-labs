@@ -12,10 +12,15 @@ couleur = { 'couleur' : ['carreau', 'coeur', 'trefle', 'pique'] }
 #          'coeur' : [2, 3, 4, 5, 6, 7, 8, 9, 10, 'R', 'D', 'V', 'A' ],
 #          'trefle' :[2, 3, 4, 5, 6, 7, 8, 9, 10, 'R', 'D', 'V', 'A' ],
 #          'pique'  : [2, 3, 4, 5, 6, 7, 8, 9, 10,'R', 'D', 'V', 'A' ] }
+<<<<<<< HEAD
 continuer_partie = True
 while continuer_partie:
     
     
+=======
+
+
+>>>>>>> 9d2d6a156cba87ceb5e3adf0dbebb7493f6d8d79
 
 
 
