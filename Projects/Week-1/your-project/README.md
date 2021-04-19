@@ -6,8 +6,8 @@
 *DAFTAPRIL2021, Paris, 18/04/2021*
 
 ## Content
-- [Project Description]
-- [Rules]
+- [Project Description](#Project Description)
+- [Rules]#(Rules)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
@@ -39,5 +39,5 @@ We determine a process to follow, each function we have to create with a help of
  
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1XGnALiVd0lRusg3byWp49dWPEfmQHWnlv1N0nwptD0M/edit#slide=id.gd2d134ea27_0_13)  
 [Trello](https://trello.com/en)  
