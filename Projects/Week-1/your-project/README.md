@@ -6,8 +6,8 @@
 *DAFTAPRIL2021, Paris, 18/04/2021*
 
 ## Content
-- [Project Description](#Project Description)
-- [Rules]#(Rules)
+- [Project Description](#projectdescription)
+- [Rules](#rules)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
